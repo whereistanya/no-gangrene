@@ -1,0 +1,1 @@
+A chrome extension that checks wikipedia for phrases that are often accompanied by pictures of suppurating wounds, rotting toes, unsightly rashes, etc, and obscures all pictures on the page by replacing them with an alpaca. Mousing over the image shows the original, and clicking on it returns the original until the next reload.
